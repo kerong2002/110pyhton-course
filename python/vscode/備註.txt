@@ -1,0 +1,1 @@
+請將vscode資料夾取名為.vscode，再把整個資料夾拉到vscode圖標上
